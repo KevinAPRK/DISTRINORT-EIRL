@@ -166,7 +166,7 @@ function createProductModal(productName, productDescription, productImage) {
             <img src="${productImage}" alt="${productName}">
             <h2>${productName}</h2>
             <p>${productDescription}</p>
-            <a href="https://wa.me/51999999999?text=Me%20interesa%20${encodeURIComponent(productName)}" 
+            <a href="https://wa.me/51987246711?text=Me%20interesa%20${encodeURIComponent(productName)}" 
                class="btn btn-primary" 
                target="_blank">
                 <i class="fab fa-whatsapp"></i> Consultar por WhatsApp

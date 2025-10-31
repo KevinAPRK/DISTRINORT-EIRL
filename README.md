@@ -106,7 +106,7 @@ http-server -p 8000
 
 ### Cambiar Número de WhatsApp
 
-Busca y reemplaza `51999999999` en `index.html` con tu número real:
+Busca y reemplaza `51987246711` en `index.html` con tu número real:
 
 ```html
 <!-- Ejemplo -->
@@ -196,7 +196,7 @@ Edita `index.html` en la sección `<!-- PRODUCTOS DESTACADOS -->`:
     <div class="product-info">
         <h3>Nuevo Producto</h3>
         <p>Descripción del producto</p>
-        <a href="https://wa.me/51999999999?text=Me%20interesa%20Nuevo%20Producto" 
+        <a href="https://wa.me/51987246711?text=Me%20interesa%20Nuevo%20Producto" 
            class="btn btn-secondary" target="_blank">
             Consultar
         </a>

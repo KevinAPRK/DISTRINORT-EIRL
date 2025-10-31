@@ -135,7 +135,7 @@ Lee el archivo `images/INSTRUCCIONES-IMAGENES.md` para ver:
 ### 3. 📱 Cambiar Número de WhatsApp
 **BUSCA Y REEMPLAZA** en `index.html`:
 ```
-51999999999  →  TU_NÚMERO_REAL
+51987246711  →  TU_NÚMERO_REAL
 ```
 Ejemplo: 51987654321 (con código de país, sin espacios ni +)
 
