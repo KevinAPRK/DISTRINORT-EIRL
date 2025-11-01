@@ -6,7 +6,7 @@
 
 **Archivo:** `index.html`
 
-Busca y reemplaza **TODOS** los `51987246711` con tu número real:
+Busca y reemplaza **TODOS** los `51912173821` con tu número real:
 
 ```html
 <!-- Ejemplo -->
