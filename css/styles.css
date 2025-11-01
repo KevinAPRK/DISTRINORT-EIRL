@@ -188,14 +188,24 @@ ul {
     position: relative;
     height: 600px;
     background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
-    background-image: url('../images/hero-bg.jpg');
-    background-size: cover;
-    background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     overflow: hidden;
+}
+
+.hero-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+    z-index: 0;
 }
 
 .hero-overlay {
@@ -205,6 +215,7 @@ ul {
     right: 0;
     bottom: 0;
     background: linear-gradient(135deg, rgba(255, 0, 0, 0.7) 0%, rgba(0, 0, 255, 0.7) 100%);
+    z-index: 1;
 }
 
 .hero-content {
